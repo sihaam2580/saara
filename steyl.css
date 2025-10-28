@@ -1,8 +1,19 @@
- .header{
-
-
-
-
-
-    
- }
+.hero{
+    display: flex;
+    justify-content: space-around;
+}
+.h{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+.q{
+    background-color: aquamarine;
+    border: none;
+    padding: 20px;
+    border-radius: 8px;
+}
+.pr{
+    display: flex;
+    justify-content: center;
+}
